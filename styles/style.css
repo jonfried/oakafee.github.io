@@ -144,3 +144,75 @@ p.key {
 span.key-color {
      font-size: 12pt;
 }
+div.heading-container {
+        width: 80%;
+	margin: 0 auto;
+	text-align: left;
+	font-family: Georgia, Times New Roman, Garamond, serif;
+}
+div.heading {
+        width: 80%;
+}
+h1.heading {
+        text-align:center;
+        font-size:56px;
+        font-family: Georgia, Times New Roman, Garamond, serif;
+        line-height: 100%;
+        margin: 60px 0 20px 0;
+        font-weight: normal;
+}
+div.state-seal {
+        width:33%;
+        float:left;
+        margin: 0 25px 10px 0;
+}
+img.seal {
+        max-width:100%;
+        height:auto;
+}
+div.intro-text-area {
+        text-align:left;
+        font-family: Georgia, Times New Roman, Garamond, serif;
+        width:66%
+        float:left;
+        margin: 55px 0 0 0;
+}
+p.intro-text {
+        font-weight:bold;
+        font-size:22px;
+        line-height:140%;
+}
+div.story-container {
+        width:100%;
+        background-color:#4d4d4d;
+        float: left;
+}
+div.story-content {
+	width: 80%;
+	margin: 0 auto;
+	text-align: left;
+	font-family:  Georgia, Times New Roman, Garamond, serif;
+        color: #d3d3d3;
+        font-size: 13pt;
+}
+div.story-image {
+        float: left;
+        margin: 0 40px 40px 0;
+}
+div.story-text {
+}
+h2.story-heading {
+        font-size: 28pt;
+        text-align: left;
+        font-variant: small-caps;
+        letter-spacing: 2px;
+        display: block;
+}
+a.story {
+        color: #F0DC82;
+        font-weight: bold;
+}
+div.bottom-text{
+        margin: 25px 25px; 25px 25px;
+        width: 90%;
+}
