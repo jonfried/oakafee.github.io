@@ -1,0 +1,146 @@
+body {
+	background-color: #F0DC82;
+        font-family: Georgia, Times New Roman, Garamond, serif;
+        margin: 0 auto;
+}
+a {
+        font-weight: bold;
+	color: #4d4d4d;
+}
+#container  {
+	width: 100%;
+        text-align: center;
+}
+#menu-container {
+        width: 100%;
+        background-color: #4d4d4d;
+        color: #F0DC82;
+        overflow: auto;
+}
+div.menu-item {
+        width: 13%;
+        min-width: 40px;
+        float: left;
+        background-color: #4d4d4d;
+        margin: 0 10px 0 10px;
+        overflow: hidden;
+}
+a.menu-text {
+        color: #c0c0c0;
+        font-weight: normal;
+}
+div.article {
+        width: 60%;
+        text-align: left;
+        display: inline-block;
+}
+div.headline-container {
+        margin: 50px 0 37px 0;
+        text-align: center;
+}
+div.navagation {
+        font-size: 11pt;
+        margin: 0 0 25px 25px;
+}     
+div.headline-bar {
+        width: 50%;
+        height: 3px;
+        background-color: #4d4d4d;
+        margin: 20px 0 0 0;
+        display: inline-block;
+}
+#content {
+	width: 90%;
+	margin: 0 auto;
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+}
+p, ul {
+        font-family: Georgia, Times New Roman, Garamond, serif;
+	line-height: 120%
+        font-size: 13pt;
+}
+h1 {
+	text-align: left;
+	font-family: Georgia, Times New Roman, Garamond, serif;
+        font-size: 40pt;
+        font-weight: normal;
+        margin: 0;
+        display: inline-block;
+}
+h2 {
+	font-family: Georgia, Times New Roman, Garamond, serif;
+	text-align: left;
+        font-size: 17pt;
+        margin: 15px 0 10px 0;
+        display: inline-block;
+}
+div.map {
+	margin: 25px;
+	text-align: center;
+}
+div.legend {
+	width: 160px;
+	height: 90px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	text-align: left;
+	padding: 15px;
+	float: right;
+	margin: 144px 0 0 0;
+}
+div.directory {
+         height: 150px;
+	 width: 900px;
+	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+	-moz-column-count: 3; /* Firefox */
+	column-count: 3;
+}
+#directory-box {
+    margin: 10px 0 10px 0;
+}
+div.table-container {
+    text-align: center;
+    width: 100%;
+    margin: 25px 0 25px 0;
+}
+table.index {
+    background-color: #4d4d4d;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+td {
+    border: 5px solid #F0DC82;
+    padding: 8px;
+}
+a.table {
+}
+div.map-container {
+     float: left;
+}
+div.map {
+     margin: 0 0 25px 0;
+     float: left;
+     width: 55%;
+}
+img.land-use-map {
+     max-width: 100%;
+     height: auto;
+}
+div.map-key {
+     border: 1px solid black;
+     padding: 10px;
+     width: 140px;
+     float: left;
+     margin: 5px 0 0 20px;
+     font-size: 10pt;
+     line-height: 125%;
+}
+p.key {
+     margin: 0 0 5px 0;
+     padding: 0;
+}
+span.key-color {
+     font-size: 12pt;
+}
