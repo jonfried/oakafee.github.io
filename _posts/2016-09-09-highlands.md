@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Highlands
-date: 2016-08-21
 category: land
 ---
 
