@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Highlands
-category: land
+categories: land
 ---
 
 Rocks and sprawl. 
