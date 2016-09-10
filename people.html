@@ -3,4 +3,12 @@ layout: post
 title: The People of NJ
 ---
 
-Divided into the peoples of NJ, biographical sketches of certain exemplary people of NJ, the ciulture of NJ, and sociogical observations
+<p>Divided into the peoples of NJ, biographical sketches of certain exemplary people of NJ, the ciulture of NJ, and sociogical observations </p>
+
+<ul>
+  {% for post in site.categories.people %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
