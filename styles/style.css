@@ -109,6 +109,8 @@ table.index {
     background-color: #4d4d4d;
     border-collapse: collapse;
     margin: 0 auto;
+}
+#table-text {
     color: #F0DC82;
 }
 td {
