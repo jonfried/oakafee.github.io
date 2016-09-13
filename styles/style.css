@@ -110,11 +110,11 @@ table.index {
     border-collapse: collapse;
     margin: 0 auto;
 }
-table.index a:link {color: #c0c0c0;}
-table.index a:visited {color: #c0c0c0;}
-table.index a:hover {color: #c0c0c0;}
-table.index a:active {color: #c0c0c0;}
-table.index a:focus {color: #c0c0c0;}
+table.index a:link {color: #c0c0c0; font-weight: normal;}
+table.index a:visited {color: #c0c0c0; font-weight: normal;}
+table.index a:hover {color: #c0c0c0; font-weight: normal;}
+table.index a:active {color: #c0c0c0; font-weight: normal;}
+table.index a:focus {color: #c0c0c0; font-weight: normal;}
 td {
     border: 5px solid #F0DC82;
     padding: 8px;
