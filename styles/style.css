@@ -4,8 +4,8 @@ body {
         margin: 0 auto;
 }
 a {
-        font-weight: normal;
-	color: #c0c0c0;
+        font-weight: bold;
+	color: #4d4d4d;
 }
 #container  {
 	width: 100%;
@@ -109,6 +109,10 @@ table.index {
     background-color: #4d4d4d;
     border-collapse: collapse;
     margin: 0 auto;
+}
+.index a {
+	color: c0c0c0;
+	font-weight: normal;
 }
 td {
     border: 5px solid #F0DC82;
