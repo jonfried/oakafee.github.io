@@ -105,19 +105,14 @@ div.table-container {
     width: 100%;
     margin: 25px 0 25px 0;
 }
-.index table {
+table.index {
     background-color: #4d4d4d;
     border-collapse: collapse;
     margin: 0 auto;
 }
-.index a {
-	color: c0c0c0;
-	font-weight: normal;
-}
 td {
     border: 5px solid #F0DC82;
     padding: 8px;
-    a {color: #c0c0c0; font-weight: normal}
 }
 div.map-container {
      float: left;
