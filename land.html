@@ -8,7 +8,7 @@ subtitle: Beauty That Surrounds Us
   <table class="index">
     {% tablerow post in site.categories.land cols:3 %}
       {% if post.url %}
-          <a href="{{ post.url }}">{{ post.title }}</a>
+          <span id="table-text"><a href="{{ post.url }}">{{ post.title }}</a></span>
       {% endif %}
     {% endtablerow %}
   </table>
