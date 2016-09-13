@@ -105,7 +105,7 @@ div.table-container {
     width: 100%;
     margin: 25px 0 25px 0;
 }
-table.index {
+.index table {
     background-color: #4d4d4d;
     border-collapse: collapse;
     margin: 0 auto;
