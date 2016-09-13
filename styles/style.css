@@ -110,14 +110,12 @@ table.index {
     border-collapse: collapse;
     margin: 0 auto;
 }
-#table-text {
-    color: #F0DC82;
-}
 td {
     border: 5px solid #F0DC82;
     padding: 8px;
 }
 a.table {
+	color: #F0DC82;
 }
 div.map-container {
      float: left;
