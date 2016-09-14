@@ -6,7 +6,7 @@ layout: default
   <div class="navagation">
   <ul>
     {% for category in page.categories %}
-    <li>{{ category | first }}</li>
+    <li>{{ page.category | first }}</li>
     {% endfor %}
   </ul></div>
   <div class="headline-container">
