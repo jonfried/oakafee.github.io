@@ -6,7 +6,7 @@ layout: default
   <div class="navagation">
   <ul>
     {% for category in page.categories %}
-    <li>{{ categories }}</li>
+    <li>{{ category | first }}"{% unless forloop.last %},{% endunless %}</li>
     {% endfor %}
   </ul></div>
   
