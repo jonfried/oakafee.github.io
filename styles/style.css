@@ -38,10 +38,14 @@ div.headline-container {
         margin: 50px 0 37px 0;
         text-align: center;
 }
-div.navagation {
+div.navigation {
         font-size: 11pt;
         margin: 0 0 25px 25px;
-}     
+        text-align: center;
+}
+div.navigation-text {
+	float: left;
+}
 div.headline-bar {
         width: 50%;
         height: 3px;
