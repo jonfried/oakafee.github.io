@@ -5,8 +5,8 @@ layout: default
 <div class="article">
   <div class="navagation">
   <ul>
-    {% for category in page.categories %}
-    <li>{{ page.categories  }},</li>
+    {% for category in site.categories %}
+    <li>{{ page.category | first }},</li>
     {% endfor %}
   </ul></div>
   
