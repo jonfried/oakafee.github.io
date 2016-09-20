@@ -39,3 +39,7 @@ Even if the interior of the meadowlands is undeveloped, it can hardly be called 
 </div>
 
 <p>bleh bleh </p>
+
+<p>{{ page.tags }}</p>
+
+<p>bleh bleh bleh </p>
