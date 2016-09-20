@@ -7,6 +7,8 @@ categories:
   - land
 ---
 
+Little lush mountain streams in steep valleys of sugar maples. Open grassy oak forests higher up. Lots of exposed bedrock, with red cedar trees.
+
 ## Geomorphology
 
 The HJighlands are made up of extremely resillient, billion year old bedrock - granite, gneiss, amphibolite, and all kinds of crazy stuff; the real bowels of the earth. The region's mineral richness is evident in the historical significance of mining - from colonial era iron mines to the Sterling Hill zinc mine, a massive Zinc operation which lasted until the 1980's in Ogsdenberg (and now gives amazing tours). The geography is rugged, although the relief is too low to really consider the area mountainous. The glaciers made it about halfway down, and as a general rule areas north of Route 80 were glaciated, while areas south escaped. Bedrock is hella exposed on some glaciated ridgetops and hilltops. It is no coincidence that the majority of NJ's good hiking destinations are in the northern part of the highlands.
