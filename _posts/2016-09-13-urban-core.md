@@ -11,7 +11,7 @@ As I glance across the swirling Hudson brine at the steep banked edges of Hudson
 
 <div class="table-container">
   <table class="index">
-    {% tablerow page in site.categories.[page.tags] cols:3 %}
+    {% tablerow page in site.categories.urban-core cols:3 %}
       {% if page.url %}
           <a href="{{ page.url }}">{{ page.title }}</a>
       {% endif %}
