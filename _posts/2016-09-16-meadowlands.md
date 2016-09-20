@@ -28,9 +28,10 @@ Even if the interior of the meadowlands is undeveloped, it can hardly be called 
 
 <p>bleh</p>
 
+{% assign thiscategory = page.tags %}
 <div class="table-container">
   <table class="index">
-    {% tablerow page in site.categories[page.tags] cols:3 %}
+    {% tablerow page in site.categories.[thiscategory] cols:3 %}
       {% if page.url %}
           <a href="{{ page.url }}">{{ page.title }}</a>
       {% endif %}
@@ -43,3 +44,7 @@ Even if the interior of the meadowlands is undeveloped, it can hardly be called 
 <p>{{ page.tags }}</p>
 
 <p>bleh bleh bleh </p>
+
+<p>{{ thiscategory }}</p>
+
+<p>bleh bleh bleh bleh </p>
