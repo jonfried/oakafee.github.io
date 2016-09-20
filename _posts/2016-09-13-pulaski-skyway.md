@@ -6,6 +6,7 @@ categories:
   - land-use
   - infrastructure
   - hudson-county
+  - meadowlands
 ---
 
 I first drove the Pulaski Skyway after moving to Hoboken in 1981. It was love at first sight. That eight-mile, erector-set serpent was the perfect opposite of the L.A. of my youth, the 60s L.A. with its new golden freeways, sleek and smooth as fresh cement. The rusting majesty of this hulking roadway rising double humped (and cat-eared) over the swamps and the truckyards exemplified all the grit and industrial truth a young, new-wave punk rocker could possibly want.
