@@ -5,6 +5,7 @@ author: Jesse Fried
 categories:
   - land-use
   - cities-and-towns
+  - urban-core
   - hudson-county
 tags: jersey-city
 ---
