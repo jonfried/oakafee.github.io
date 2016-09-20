@@ -5,6 +5,7 @@ author: Jesse Fried
 categories:
   - people
   - culture
+tags: north-central-south
 ---
 
 ## North Jersey
