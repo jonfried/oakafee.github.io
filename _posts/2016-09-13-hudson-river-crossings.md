@@ -6,6 +6,7 @@ categories:
   - land-use
   - infrastructure
   - hudson-county
+tags: hudson-river-crossings
 ---
 
 The Holland and Lincoln tunnels, the PATH tubes, the NJ Transit/Amtrak Tunnel, and the NY Waterway ferry system all cross the Hudson. These tunnels and boats are insufficient to handle the daily traffic across the river in their current state of repair. Tunnel traffic and NJ transit delays are legendary. PATH delays and service interruptions are also an annoyance, though a les poetic one.
