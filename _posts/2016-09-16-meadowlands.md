@@ -8,6 +8,7 @@ categories:
   - land-use
   - piedmont
   - urban-core
+tags: meadowlands
 ---
 
 An enormous swampy intrusion into the state's densest area, the Meadowlands complicate the geography of NJ's urban core. Several miles of wetlands and river channels, primarily surrounding the north/south oriented estuary of the Hackensack River, separate the gritty urban streets of Hudson County from the gritty urban streets of Newark. The relatively dry margins of the wetlands, flat and well-located but not especially suited for residential development, have played host to Newark's, Kearny's and Jersey City's beefy industrial areas. The interior seems to have resisted industrialization, with broken-down causeways and decaying brick structures showing that it's not for lack of trying.
