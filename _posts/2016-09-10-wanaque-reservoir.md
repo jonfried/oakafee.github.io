@@ -6,6 +6,7 @@ categories:
   - land
   - highlands
   - lakes
+tags: wanaque-reservoir
 ---
 
 A steep, rocky valley between the Ramapo Mountains to the east and the Wyanoke Plateau to the west was dammed in several different places to create the Wanaque Reservoir, which serves as a water supply for somehwere, I know not where.
