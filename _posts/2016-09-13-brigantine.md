@@ -6,6 +6,7 @@ categories:
   - land-use
   - cities-and-towns
   - atlantic-county
+tags: brigantine
 ---
 
 Brigantine, NJ, is a small island beach town in Atlantic County, NJ. While less known to northern NJ-ers than classic southern beach towns like Cape May and Wildwood, Brigantine has similar quality beaches coupled with a much quieter, laidback feel that has mostly evaded the wrath of tourism.
