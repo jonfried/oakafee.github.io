@@ -5,6 +5,7 @@ author: Jesse Fried
 categories:
   - land
   - coastal-plain
+  - public-lands
   - monmouth-county
   - state-parks
 tags: cheesequake-state-park
