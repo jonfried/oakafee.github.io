@@ -2,6 +2,7 @@
 layout: post
 title: Highlands
 categories: land
+tags: highlands
 ---
 
 Rocks and sprawl. 
