@@ -2,9 +2,10 @@
 layout: post
 title: Cities and Towns of Bergen County
 categories:
-  - people
+  - land-use
   - cities-and-towns
   - bergen
+tags: bergen-cities-towns
 ---
 
 ## Fort Lee
