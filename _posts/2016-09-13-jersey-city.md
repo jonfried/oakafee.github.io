@@ -6,6 +6,7 @@ categories:
   - land-use
   - cities-and-towns
   - hudson-county
+tags: jersey-city
 ---
 
 ## Downtown
