@@ -28,14 +28,16 @@ layout: default
 
 <div class="table-container">
   <table class="index">
-    {% if page.tags %}
-      {% tablerow post in site.categories.{{ page.tags }} cols:3 %}
-        {% if post.url %}
-            <a href="{{ post.url }}">{{ post.title }}</a>
-        {% endif %}
-      {% endtablerow %}
-    {% endif %}
+    {% tablerow post in site.categories.{{ page.tags }} cols:3 %}
+      {% if post.url %}
+          <a href="{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    {% endtablerow %}
   </table>
 </div>
+
+<p>{{ page.tags }}</p>
+
+<p>KLM</p>
 
 </div>
