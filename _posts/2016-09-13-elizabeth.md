@@ -6,6 +6,7 @@ categories:
   - land-use
   - cities-and-towns
   - union-county
+tags: elizabeth
 ---
 
 For a post-industrial city in an are dominated by oil refineries, shipping cranes and Staten Island, Elizabeth looks pretty good. Today, it has some gritty urban neighborhoods, but nothing as decrepit as Newark or Jersey City, from what I understand. It also has some really nice elegant suburban areas within the city limits, and some stable modest lower middle class areas too.
