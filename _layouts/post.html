@@ -27,7 +27,7 @@ layout: default
 
 <div class="table-container">
   <table class="index">
-    {% tablerow post in site.categories.{{ page.tags }} cols:3 %}
+    {% tablerow post in site.categories.{{ tags }} cols:3 %}
       {% if post.url %}
           <a href="{{ post.url }}">{{ post.title }}</a>
       {% endif %}
