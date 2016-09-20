@@ -4,12 +4,14 @@ title: Hudson County
 author: Jesse Fried
 categories:
   - land-use
+  - urban-core
   - cities-and-towns
+tags: hudson-county
 ---
 
 ## Cultural
 
-The urban/industrial landscape and history of Hudson Countycontain much evidence of the genius and the folly, the glory and the tragedy of American civilization, all in a small but physiographically diverse area. A hub of international trade and one of the oldest, densest built-up areas in the country, the urban core of Hudson County spends its centuries accepting wave after wave of immigrants and migrants, some of whom go on to contribute to the wealth and power of the nation, others of whom are crushed beneath urban American’s cruel political and economic structure, and many others, of course, who hang out somewhere in between.
+The urban/industrial landscape and history of Hudson County contains much evidence of the genius and the folly, the glory and the tragedy of American civilization, all in a small but physiographically diverse area. A hub of international trade and one of the oldest, densest built-up areas in the country, the urban core of Hudson County spends its centuries accepting wave after wave of immigrants and migrants, some of whom go on to contribute to the wealth and power of the nation, others of whom are crushed beneath urban American’s cruel political and economic structure, and many others, of course, who hang out somewhere in between.
 
 The golden age and subsequent decline of American industry are inescapable themes here.
 
