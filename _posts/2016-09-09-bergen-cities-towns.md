@@ -5,7 +5,7 @@ categories:
   - land-use
   - cities-and-towns
   - bergen
-tags: bergen-cities-towns
+category-name: bergen-cities-towns
 ---
 
 ## Fort Lee
