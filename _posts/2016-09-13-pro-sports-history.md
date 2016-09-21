@@ -5,7 +5,7 @@ author: Max Miller
 categories:
   - people
   - culture
-tags: pro-sports
+category-name: pro-sports
 ---
 
 Near and dear to many New Jerseyans' hearts is the success of their favorite professional sports teams. Setting aside the debatable importance of sports in society, this contributor is staunch in his defense of sports' existence at the heart of New Jersey culture. I will keep this defense to a few sentences, but refer to this website's homepage: a plea for New Jerseyans to come together, whether white or black, Asian or Hispanic, rich or poor, suburban or urban (or rural!), and join in our appreciation of New Jersey. Sports are known as the great equalizer: no matter your socioeconomic background, one can always discuss the recent game with a stranger. "How about that local sports team?" A refrain commonly heard. Given our placement in the Northeast, where popularity of college sports is at a geographic nadir, professional sports are a valuable tool in bonding and relationship-building, whether amongst friends, parents and children, or coworkers. Therefore, with this spirit in mind, I embark on a concise but hopefully comprehensive history of professional sports in this great state.
