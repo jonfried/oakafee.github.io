@@ -7,7 +7,7 @@ categories:
   - infrastructure
   - urban-core
   - suburbs
-tags: nj-turnpike
+category-name: nj-turnpike
 ---
 
 The New Jersey Turnpike, that throbbing clogged artery of our nation, offers its millions of anonymous passengers a view of the strange soulful country of Central and Southern NJ. THe land is glimpsed at a distance, like New York from a Double Decker bus.
