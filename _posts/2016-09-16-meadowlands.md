@@ -25,34 +25,3 @@ Even if the interior of the meadowlands is undeveloped, it can hardly be called 
     {% endtablerow %}
   </table>
 </div>
-
-<p>bleh</p>
-
-{% assign thiscategory = page.tags %}
-<div class="table-container">
-  <table class="index">
-    {% tablerow page in site.categories[thiscategory] cols:3 %}
-      {% if page.url %}
-          <a href="{{ page.url }}">{{ page.title }}</a>
-      {% endif %}
-    {% endtablerow %}
-  </table>
-</div>
-
-<p>bleh 1.5 </p>
-
-<div class="table-container">
-  <table class="index">
-    {% tablerow page in site.categories.meadowlands cols:3 %}
-      {% if page.url %}
-          <a href="{{ page.url }}">{{ page.title }}</a>
-      {% endif %}
-    {% endtablerow %}
-  </table>
-</div>
-
-<p>bleh bleh </p>
-
-<p>{{ page.tags }}</p>
-
-<p>bleh bleh bleh </p>
