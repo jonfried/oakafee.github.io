@@ -8,7 +8,7 @@ categories:
   - public-lands
   - monmouth-county
   - state-parks
-tags: cheesequake-state-park
+category-name: cheesequake-state-park
 ---
 
 Several early experiences with this park on the coast of Raritan Bay in Central Jersey have led me to associate it with boredom and mild dread. Situated around the Garden State Parkway in the Raritan Bayshore suburbs of Central Jersey, partway between the Northern cities and the Shore, Cheesequake has served for some North Jersey parents with small children as a closer, more low-key outdoor recreation destination than the beach. It is in this capacity, as a small child, that I first beheld the small lake developed with an artifical sand beach and a snack bar:
