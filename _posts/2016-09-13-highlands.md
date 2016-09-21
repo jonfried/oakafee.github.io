@@ -5,7 +5,7 @@ subtitle: Rocks and sprawl.
 author: Jesse Fried
 categories:
   - land
-tags: highlands
+category-name: highlands
 ---
 
 Little lush mountain streams in steep valleys of sugar maples. Open grassy oak forests higher up. Lots of exposed bedrock, with red cedar trees.
