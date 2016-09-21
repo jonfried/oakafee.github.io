@@ -7,7 +7,7 @@ categories:
   - cities-and-towns
   - urban-core
   - hudson-county
-tags: jersey-city
+category-name: jersey-city
 ---
 
 ## Downtown
