@@ -7,7 +7,7 @@ categories:
   - infrastructure
   - cape-may-county
   - parkway
-tags: cape-may-ferry
+category-name: cape-may-ferry
 ---
 
 What happens to the Garden State parkway when it gets to the bottom of New Jersey, exit 1? The tailbone at the base of the spine, if you will?
