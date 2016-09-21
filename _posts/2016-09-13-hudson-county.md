@@ -6,7 +6,7 @@ categories:
   - land-use
   - urban-core
   - cities-and-towns
-tags: hudson-county
+category-name: hudson-county
 ---
 
 ## Cultural
