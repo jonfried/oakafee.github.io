@@ -4,7 +4,7 @@ title: The Delaware Water Gap
 author: Jesse Fried
 categories:
   - land
-  - ridge-and-valley
+  - valley-and-ridge
 category-name: delaware-water-gap
 ---
 
