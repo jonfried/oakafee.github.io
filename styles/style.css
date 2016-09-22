@@ -137,7 +137,7 @@ div.map {
 }
 #land-map {
 	width: 45%;
-	margin-right: 15px;
+	margin-right: 25px;
 }
 img.land-use-map {
      max-width: 100%;
@@ -232,7 +232,7 @@ div.bottom-text{
         width: 90%;
 }
 div.land {
-	width: 90%;
+	width: 85%;
 }
 div.land p {
 	margin-top: 5px;
@@ -240,5 +240,5 @@ div.land p {
 }
 #land-intro-text {
 	margin-left: 25px;
-	margin-bottom: 10px;
+	margin-bottom: 35px;
 }
