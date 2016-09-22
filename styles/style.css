@@ -113,6 +113,10 @@ div.table-container {
 #land-table-container {
 	margin-bottom: 0;
 }
+#land-table-container-top {
+	margin-top: 15px;
+	margin-bottom: 0;
+}
 table.index {
     background-color: #4d4d4d;
     border-collapse: collapse;
