@@ -233,6 +233,7 @@ div.bottom-text{
 }
 div.land {
 	width: 85%;
+	margin-top: 10px;
 }
 div.land p {
 	margin-top: 5px;
