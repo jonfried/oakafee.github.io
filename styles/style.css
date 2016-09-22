@@ -110,6 +110,9 @@ div.table-container {
     width: 100%;
     margin: 25px 0 25px 0;
 }
+#land-table-container {
+	margin-top: 5px;
+}
 table.index {
     background-color: #4d4d4d;
     border-collapse: collapse;
