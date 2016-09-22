@@ -136,7 +136,7 @@ div.map {
      width: 55%;
 }
 #land-map {
-	margin-left: 10px;
+	margin: 0 0 0 0;
 }
 img.land-use-map {
      max-width: 100%;
