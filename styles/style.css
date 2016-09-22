@@ -227,8 +227,12 @@ a.story {
         font-weight: bold;
 }
 div.bottom-text{
-        margin: 25px 25px; 25px 25px;
+        margin: 25px 25px 25px 25px;
         width: 90%;
+}
+div.land {
+	margin-left: 15px;
+	width: 45%;
 }
 div.land p {
 	margin-top: 5px;
