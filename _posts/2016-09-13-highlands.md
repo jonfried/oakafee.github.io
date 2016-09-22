@@ -10,9 +10,7 @@ category-name: highlands
 
 Little lush mountain streams in steep valleys of sugar maples. Open grassy oak forests higher up. Lots of exposed bedrock, with red cedar trees.
 
-<a href="{{ site.url }}/images/highlands-view.JPG"><img src="{{ site.url }}/images/highlands-view-800.jpg" alt="Highlands View" /></a>
-
-<img src="{{ site.url }}/images/highlands-view.JPG" alt="Highlands View" />
+<a href="{{ site.url }}/images/highlands-view.jpg"><img src="{{ site.url }}/images/highlands-view-700.jpg" alt="Highlands View" /></a>
 
 ## Geomorphology
 
