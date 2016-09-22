@@ -142,6 +142,7 @@ div.map {
 #land-map {
 	width: 45%;
 	margin-right: 45px;
+	display: block;
 }
 img.land-use-map {
      max-width: 100%;
