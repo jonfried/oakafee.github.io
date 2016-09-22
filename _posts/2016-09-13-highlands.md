@@ -12,7 +12,7 @@ Little lush mountain streams in steep valleys of sugar maples. Open grassy oak f
 
 <a href="{{ site.url }}/images/highlands-view.jpg"><img src="{{ site.url }}/images/highlands-view-800.jpg" alt="Highlands View" /></a>
 
-![Highlands View Markdown]({{ site.url }}/images/highlands-view-800.jpg)
+<img src="{{ site.url }}/images/highlands-view.jpg" alt="Highlands View" />
 
 ## Geomorphology
 
