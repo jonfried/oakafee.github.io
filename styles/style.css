@@ -2,6 +2,7 @@ body {
 	background-color: #F0DC82;
         font-family: Georgia, Times New Roman, Garamond, serif;
         margin: 0 auto;
+        word-wrap: break-word;
 }
 a {
         font-weight: bold;
