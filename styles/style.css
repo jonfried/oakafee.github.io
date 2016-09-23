@@ -142,6 +142,7 @@ div.map {
 }
 #land-map {
 	width: 45%;
+	min-width: 321px;
 	margin-right: 45px;
 	display: block;
 }
@@ -240,6 +241,7 @@ div.bottom-text{
 div.land {
 	width: 85%;
 	margin-top: 10px;
+	display: inline;
 }
 div.land p {
 	margin-top: 5px;
