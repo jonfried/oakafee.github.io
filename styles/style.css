@@ -135,7 +135,7 @@ div.map {
      margin: 0 0 25px 0;
      float: left;
      width: 55%;
-     min-width: 400;
+     min-width: 400px;
 }
 #land-map {
 	width: 45%;
