@@ -133,7 +133,8 @@ div.map-container {
      width: 100%;
 }
 div.map {
-     margin: 0 0 25px 0;
+     margin: 0 auto;
+     margin-bottom: 25px;
      width: 90%;
 }
 #land-map {
