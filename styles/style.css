@@ -154,7 +154,8 @@ img.land-use-map {
 div.map-key {
      border: 1px solid black;
      padding: 10px;
-     width: 140px;
+     width: 30%;
+     width: 175px;
      float: left;
      margin: 5px 0 0 20px;
      font-size: 10pt;
