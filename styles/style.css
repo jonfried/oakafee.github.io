@@ -129,15 +129,14 @@ td {
     padding: 8px;
 }
 div.map-container {
-     float: left;
+     text-align: center;
 }
 div.map {
      margin: 0 0 25px 0;
-     float: left;
-     width: 55%;
-     min-width: 400px;
+     width: 80%;
 }
 #land-map {
+	float: left;
 	width: 45%;
 	min-width: 321px;
 	margin-right: 45px;
