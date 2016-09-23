@@ -130,10 +130,11 @@ td {
 }
 div.map-container {
      text-align: center;
+     width: 100%;
 }
 div.map {
      margin: 0 0 25px 0;
-     width: 80%;
+     width: 90%;
 }
 #land-map {
 	float: left;
