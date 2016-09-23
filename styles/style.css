@@ -149,11 +149,11 @@ img.land-use-map {
 div.map-key {
      border: 1px solid black;
      padding: 10px;
-     width: 25%;
+     width: 35%;
      min-width: 125px;
      float: left;
 	text-align: left;
-     margin: 5px 0 20px 20px;
+     margin: 5px 20px 0 0;
      font-size: 12pt;
      line-height: 125%;
 }
