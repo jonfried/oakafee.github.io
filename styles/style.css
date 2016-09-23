@@ -153,7 +153,7 @@ div.map-key {
      min-width: 125px;
      float: left;
 	text-align: left;
-     margin: 5px 20px 0 0;
+     margin: 5px 20px 0 10px;
      font-size: 12pt;
      line-height: 125%;
 }
@@ -163,10 +163,10 @@ p.key {
      font-weight: bold;
 }
 p.key-title {
-     margin: 0 0 5px 0;
+     margin: 0 0 8px 0;
      padding: 0;
      font-weight: bold;
-     font-size: 18pt;
+     font-size: 16pt;
 }
 div.heading-container {
         width: 80%;
