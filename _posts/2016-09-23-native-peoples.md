@@ -16,9 +16,9 @@ In that time, the Lenape lived in fortified villages of longhouses, grew maize, 
 
 One of Lenapehoking's main transportation corridors, the Minisink Path, linked the bays and inlets of NJ's Atlantic coast with the Highlands and the Delaware river. The path's southeastern terminus was at the head of the Navesink River's estuary, by present-day Red Bank. The Garden State Parkway follows its general route through Central Jersey, up to Union county, where the path crossed the Watchung Mountains at Springfield, in the gap currently occupied by Route 24. Heading northwest through the Highlands, it seems to have split into several branches: one via Morristown (now roughly followed by Routes 24, 15 and 206), and another north to Pequannock, then up the Pequannock River's steep-sided valley (now scenic route 23). The path's northwestern destination was Minisink Island on the Delaware River, an important settlement and crossroads, now in the Delaware Water Gap National Recreation Area, just south of Milford, PA. It most certainly reached the Delaware via Culver's Gap in the Kitatinny Ridge (Route 206 today).
 
-<div style="float:left;">
+<div style="float:left; margin-right: 5px;">
 <img src="{{ site.baseurl }}/images/minisink-route-350.jpg" alt="approx route of Minisink Path" /><br />
-The Minisink Path: Very Approximate Route
+<b>The Minisink Path: Very Approximate Route </b>
 </div>
 
 The area was dense with secondary routes connecting to the Minisink Path. One crossed the Raritan at New Brunswick and continued down to Trenton. Another, called the Burlington Path, ran southwest across Monmouth County, ending at Burlington on the Delaware - a vaguely Turnpike-esque route. Of local interest to Essex County residents, all of the current routes across the Watchung Mountains reportedly date back to local paths of this era: South Orange Ave., Northfield Ave., Mt. Pleasant Ave., Eagle Rock Ave., and Route 46 near Montclair State. 
@@ -33,7 +33,7 @@ However, a number of Lenapes stayed in New Jersey, maintaining their own identit
 
 Sources:
 
-"Our Tribal History..." http://www.nanticoke-lenape.info/history.htm
-<i>We Are Still Here! The Tribal Saga of New Jersey’s Nanticoke and Lenape Indians </i> by John R. Norwood
-<i>History of the Oranges, in Essex County, N.J.: From 1666 to 1806 </i> by Stephen Wickes
+"Our Tribal History..." http://www.nanticoke-lenape.info/history.htm <br />
+<i>We Are Still Here! The Tribal Saga of New Jersey’s Nanticoke and Lenape Indians </i> by John R. Norwood <br />
+<i>History of the Oranges, in Essex County, N.J.: From 1666 to 1806 </i> by Stephen Wickes <br />
 Wikipedia
