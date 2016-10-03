@@ -1,10 +1,11 @@
 ---
 layout: post
-title: European People in New Jersey
+title: European Peoples in New Jersey
 author: Jesse Fried
 categories:
   - people
   - peoples
+category-name: european-peoples
 ---
 
 
