@@ -17,7 +17,7 @@ In that time, the Lenape lived in fortified villages of longhouses, grew maize, 
 One of Lenapehoking's main transportation corridors, the Minisink Path, linked the bays and inlets of NJ's Atlantic coast with the Highlands and the Delaware river. The path's southeastern terminus was at the head of the Navesink River's estuary, by present-day Red Bank. The Garden State Parkway follows its general route through Central Jersey, up to Union county, where the path crossed the Watchung Mountains at Springfield, in the gap currently occupied by Route 24. Heading northwest through the Highlands, it seems to have split into several branches: one via Morristown (now roughly followed by Routes 24, 15 and 206), and another north to Pequannock, then up the Pequannock River's steep-sided valley (now scenic route 23). The path's northwestern destination was Minisink Island on the Delaware River, an important settlement and crossroads, now in the Delaware Water Gap National Recreation Area, just south of Milford, PA. It most certainly reached the Delaware via Culver's Gap in the Kitatinny Ridge (Route 206 today).
 
 <div style="float:left;">
-<img src="{{ site.baseurl }}/images/minisink-route-350.jpg" alt="approx route of Minisink Path" />
+<img src="{{ site.baseurl }}/images/minisink-route-350.jpg" alt="approx route of Minisink Path" /><br />
 The Minisink Path: Very Approximate Route
 </div>
 
