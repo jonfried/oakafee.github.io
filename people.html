@@ -26,6 +26,18 @@ tags: people
   </table>
 </div>
 
+<h2>Peoples of NJ</h2>
+
+<div class="table-container">
+  <table class="index">
+    {% tablerow post in site.categories.peoples cols:3 %}
+      {% if post.url %}
+          <a href="{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    {% endtablerow %}
+  </table>
+</div>
+
 <h2>Exemplary New Jeresyites</h2>
 
 <div class="table-container">
