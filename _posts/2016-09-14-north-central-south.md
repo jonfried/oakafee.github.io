@@ -5,8 +5,12 @@ author: Jesse Fried
 categories:
   - people
   - culture
-category-name: north-central-south
 ---
+
+<iframe src="https://s3.amazonaws.com/nj-data/live-updating-map/NCSmap1.html" width="75%" height="450px"></iframe>
+<p><i>Source:</i> <a href="http://www.nj.com/news/index.ssf/2015/04/mapping_njs_unofficial_north_central_and_south_jer.html#mapresults" target="_blank"><i>NJ.com/i></a></p>
+
+The designations North, Central and South Jersey are purely cultural in nature. The names carry no legal weight, and the borders between them have no political significance. The regional status of some marginal towns can be a subject of lively debate. 
 
 ## North Jersey
 
@@ -18,4 +22,4 @@ The Jersiest of the Jersies, by popular consensus, Central Jersey spans the sout
 
 ## South Jersey
 
-I'm not really sure what's going on here. Combining the Philly suburbs, the more resort-like, less suburban parts of the shore, the mythical Pine Barrens, and some farmland, it seems to look more towards the  Mid Atlantic region, states such as Maryland, for influences
+I'm not really sure what's going on here. Overall the most rural part of the state, South Jersey combines the Philly suburbs, the resort areas of the more distant parts of the Shore, Atlantic City, the mythical Pine Barrens, and some farmland. Cranberry and blueberry production go on here. 
