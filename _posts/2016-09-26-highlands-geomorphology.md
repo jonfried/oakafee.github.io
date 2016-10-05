@@ -1,24 +1,22 @@
 ---
 layout: post
-title: Land Use History of the NJ Highlands
+title: Geomorphology of the NJ Highlands
 author: Jesse Fried
 categories:
   - land
-  - land-use
   - highlands
-  - outlying areas
-category-name: highlands-land-use
+category-name: highlands-geomorphology
 ---
 
-As explained on the <a href="{{ site.baseurl }}/land/highlands/highlands-geomorphology.html">Geomorphology of the Highlands</a> page, the edge of the Wisconsin glaciation resulted in dramatically different surficial geology between the northern and southern Highlands.
+The NJ Highlands are the real bowels of the earth, brought from the firey depth to the surface. The formation of its resilient bedrock is a long story, dating back in some cases over a billion years (that's 1/4 of the planet's estimated lifepan), featuring so many earth processes such differnt points in the planet’s development that geologists admit to being overwhelmed. A USGS authority concludes that “faults and bedrock structures in the Highlands region have exceedingly complex histories that are challenging to discern” [1]. When the Highlands bedrock was first dredged back up to the surface, it probably was a big mountain rainge, but hundreds of millions of years of erosion have since worn it down. 
 
-In the southern Highlands, much less effected by the glaciers, soil is relatively deep, and most areas, except for steep slopes, were cleared for agriculture. Cleared areas include both the fertile valleys and the wide flat ridgetops. In the 19th century, this area seemed to support a traditional agrarian economy and population. Much later, in the late 20th century, when developers became interested in the region, it was already cleared and ready for sprawl to be quickly and inexpensively built.
+To shorten this lengthy story, the Highlands are a swath of very old, very hard rock that now shares the daylight of contemprary New Jersey with younger, comparatively simpler rocks on either side. The region is no longer especially mountainous, but its elevation and ruggedness today is due its resistance to erosion compared with its softer neighbors. Its average elevation increases gradually as you go north.
 
-In the northern Highlands, however, thin and rocky soil, as well as rugged topography, made farming prohibitively difficult. A good portion of the land was probably never cleared for pasture, and remained generally uninhabited. The land was, however, disturbed in other ways. The bedrock's mineral richness made for an extensive mining industry, dating from the 18th century until the 20th. Iron was mined here for the Revolutionary War. The Sterling Hill Mine, A huge Zinc mine in Ogdensberg, operated for 200 years, until the 1980's. It's now an incredibly cool museum. Forests were cleared for charcoal to fuel furnaces for smelting, and other industrial uses, before the era of fossil fuels. Mining towns once thrived throughout the region, but dried up as mining industries moved elsewhere.
+Glaciers! One time, it was cold out, and glaciers like those you might find today in the Arctic stretched across the northern half or North America, as far south as NJ. Actually, this tends to happen whenever it's cold out for a period of thousands of years. The most recent glaciers to cover the continent, which Geologists named after Wisconsin, decided to pick somewhere right near I-80's route across the Highlands as the place to stop and advance no further. These are moving sheets of icen thousands of feet thick, which have huge effects on the landscapes they cross: sculpting hills and mountains, filling in valleys with debris, and scraping away the soil from prett much everywhere.  As a result, the southern and northern halves of the Highlands look very different, and have had very different human histories. See the page on <a href="/land/highlands/highlands-land-use-history.html">the land use history of the Highlands</a> for details. 
 
-Numerous mountain streams became the sites of industrial mill towns, with Dover probably being the biggest.
+The Northern highlands are now classic NJ hiking country, with exposed bedrock ledges on glacially scoured hilltops providing nice views. Soils tend to be thin and rocky.
 
-Much of the land hasn't found much use in the modern world. A lot of it has become public land - state forests and parks, plus the enormous Newark Watershed property. Much of the land is now managed for recreation. An upshot of this underutilization of land is that much of it is now covered with mature hardwood forest. Today, the forestry industry in New Jersey is very small, so a lot of these trees are probably going to grow for a while.
+The Southern highlands contains some fertile valleys with limestone and dolomite interspersed with wide ridges of classic Highlands bedrock. 
 
-It's a lot more expensive to develop steep, rocky areas with thin soils and dense forest cover, than cropland and pastures, so believe it or not, I think nature did put a speed bump in the path of encroaching sprawl in the northern Highlands. You will see recent housing devlopments here, but it's isolated. 
 
+[1] <i>Geology of National Parks, 3D and Photographic Tours: Highlands Sites in New Jersey.</i> http://3dparks.wr.usgs.gov/nyc/highlands/ramapo.htm
