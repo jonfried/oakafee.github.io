@@ -8,7 +8,7 @@ categories:
 ---
 
 <iframe src="https://s3.amazonaws.com/nj-data/live-updating-map/NCSmap1.html" width="75%" height="450px"></iframe>
-<p><i>Source:</i> <a href="http://www.nj.com/news/index.ssf/2015/04/mapping_njs_unofficial_north_central_and_south_jer.html#mapresults" target="_blank"><i>NJ.com/i></a></p>
+<p><i>Source:</i> <a href="http://www.nj.com/news/index.ssf/2015/04/mapping_njs_unofficial_north_central_and_south_jer.html#mapresults" target="_blank"><i>NJ.com</i></a></p>
 
 The designations North, Central and South Jersey are purely cultural in nature. The names carry no legal weight, and the borders between them have no political significance. The regional status of some marginal towns can be a subject of lively debate. 
 
