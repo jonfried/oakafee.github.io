@@ -15,4 +15,4 @@ I-287 provides an excellent view of of the reservoir, between its junctions with
 
 West Brook Road, probably one of the more scenic roads in NJ, crossess the Wanaque Reservoir at a narrow point. Many great NJ hiking destinations are visible from this bridge, though it's inadvisable to stop your car.
 
-You can get great views of the reservor at High Point in Norvin Green State Forest, Windbeam Mountain along the Stonetown Circular Trail, and some spots in the Ramapos.
+You can get great views of the reservor at High Point in Norvin Green State Forest, Windbeam Mountain along the Stonetown Circular Trail and some spots in the Ramapos.
