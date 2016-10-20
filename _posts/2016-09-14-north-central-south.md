@@ -14,12 +14,12 @@ The designations North, Central and South Jersey are purely cultural in nature. 
 
 ## North Jersey
 
-My own native land. Overwhelmingly influenced by the adjacent city of New York, it nevertheless maintains a distinct identity and culture even in areas right across the river from Manhattan. North Jersey also shares some similarities with its northern neighbor regions, the adjacent Hudson Valley and nearby New England, though these comparisons may be more aspirational than anything else. The wealthiest and probably the most pretentious of the Jerseys, North Jersey houses many important figures in New York's culture and economy during the night and weekend hours. 
+My own native land. Overwhelmingly influenced by the adjacent city of New York, it nevertheless maintains a distinct identity and culture even in areas right across the river from Manhattan. North Jersey also shares some similarities with its northern neighboring regions, the adjacent Hudson Valley and nearby New England, though these comparisons may be more aspirational than anything else. The wealthiest and probably the most pretentious of the Jerseys, North Jersey houses many important figures in New York's culture and economy during the night and weekend hours. 
 
 ## Central Jersey
 
-The Jersiest of the Jersies, by popular consensus, Central Jersey spans the southern half of NYC's metro area, plus some no-mans-land between Philly and NYC's spheres of influence. It serves as the intellectual center of New Jersey, home to the main campuses of the state's leading public and private universities: Rutgers in New Brunswick and Princeton in Princeton. 
+The Jersiest of the Jersies, by popular consensus, Central Jersey spans the southern half of NYC's metro area, plus some no-man's-land between Philly's and NYC's spheres of influence. It serves as the intellectual center of New Jersey, home to the main campuses of the state's leading public and private universities: Rutgers in New Brunswick and Princeton in Princeton. 
 
 ## South Jersey
 
-I'm not really sure what's going on here. Overall the most rural part of the state, South Jersey combines the Philly suburbs, the resort areas of the more distant parts of the Shore, Atlantic City, the mythical Pine Barrens, and some farmland. Cranberry and blueberry production go on here. 
+I'm not really sure what's going on here. Overall the most rural part of the state, South Jersey combines the Philly suburbs, the resort areas of the more distant parts of the Shore, Atlantic City, the mythical Pine Barrens and some farmland. Cranberry and blueberry production go on here. 
