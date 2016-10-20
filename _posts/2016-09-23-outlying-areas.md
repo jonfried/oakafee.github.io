@@ -13,7 +13,7 @@ One summer when I was home from college, bored on a day off from my summer job, 
 
 I was not successful. Trying to head north and west, I got myself lost in the tangle of strip mall-lined secondary roads of western Essex County, failing to realize that squirming around only tightens the ropes. Frustration mounting as I watched the afternoon wasting away, I found I-280 and decided just to drive west as fast as I could. I sped along until at the top of a hill I saw a huge summer storm coming in from the west. Even if I made it somewhere nice, I wouldn't really enjoy it in the pouring rain. It was easy to convince myself to get off the highway and head home. 
 
-Whatever I may or may not have found out that day, I now know that there are parts of New Jersey somewhat removed from the metropolis. Some of these resemble other parts of rural America. Others are just really weird. And still others, I can't pretend to know much about. Again, your intellectual contributions are much appreciated.
+Whatever I may or may not have found out that day, I now know that there are parts of New Jersey somewhat removed from the metropolis. Some of these resemble other parts of rural America. Others are just really weird. And still others I can't pretend to know much about. Again, your intellectual contributions are much appreciated.
 
 
 
