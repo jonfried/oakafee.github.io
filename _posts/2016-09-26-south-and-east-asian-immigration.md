@@ -10,9 +10,9 @@ category-name: south-and-east-asian-immigration
 
 ## South Asian
 
-In recent decades there has been a huge amount of Indian immigration to NJ, and there are now a huge number of Indian-American New Jerseyites, spanning a variety of social classes. Some live in modest neighborhoods of Jersey City, near the Little India strip of stores and restaurants, and many of the residents of the Newport development in Downtown JC seem to be Indian families. However, I think the bulk of the population is suburban, and many suburban NJ towns have sizable Indian populations, especially in Central Jersey. Edison has a whole downtown area that is pretty much ethnic Indian businesses. On a personal note, growing up in Millburn, I had some Indian-American friends.
+In recent decades there has been a huge amount of Indian immigration to NJ, and there are now a huge number of Indian-American New Jerseyites, spanning a variety of social classes. Some live in modest neighborhoods of Jersey City, near the Little India strip of stores and restaurants, and many of the residents of the Newport development in downtown JC seem to be Indian families. However, I think the bulk of the population is suburban, and many suburban NJ towns have sizable Indian populations, especially in Central Jersey. Edison has a whole downtown area that is pretty much ethnic Indian businesses. On a personal note, growing up in Millburn, I had some Indian-American friends.
 
-Many Indian immigrants come with a high levels of education and in-demand white collar job skills, allowing them to participate in the financial bonanza of corporate America, and giving them access to some of the nicer suburbs of NJ. 
+Many Indian immigrants come with high levels of education and in-demand white collar job skills, allowing them to participate in the financial bonanza of corporate America and giving them access to some of the nicer suburbs of NJ. 
 
 A good number of students at NJ's colleges are international students from India. 
 
