@@ -8,4 +8,4 @@ categories:
 category-name: middle-eastern-people
 ---
 
-Jersey City has a huge Middle Eastern population, concentrated in the neighborhood west of Journal Square. I actually don't know too much about these New Jerseyites - it seems that my life hasn't overlapped with them that much.
+Jersey City has a huge Middle Eastern population, concentrated in the neighborhood west of Journal Square. I actually don't know too much about these New Jerseyites — it seems that my life hasn't overlapped with them that much.
